@@ -2159,6 +2159,3 @@ function getSpeedConstant() { //Get speed constant (world speed * unit speed) fo
         return obj
     }
 }
-
-
-
